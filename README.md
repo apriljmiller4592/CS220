@@ -1,3 +1,3 @@
 # CS220
 
-Computer Architecture and Assembly Language at MiraCosta College.
+Homework and labs from Computer Architecture and Assembly Language course at MiraCosta College.
